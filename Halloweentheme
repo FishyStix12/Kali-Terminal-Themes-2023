@@ -4,7 +4,7 @@
 #       Author: Nicholas Fisher
 #       Date: November 16 2023
 #       Description of Script
- This script is to be used in the .zshrc file for Kali Linux Machines.
+#       This script is to be used in the .zshrc file for Kali Linux Machines.
 #	      To ensure the script works first find the line with the prompt_halloween  
 #       variable, and paste the emojis into the prompt_symbol variable in the 
 #       .zshrc file. Then run the script to apply the new terminal theme!
