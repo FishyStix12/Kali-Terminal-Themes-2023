@@ -34,3 +34,4 @@ sudo echo " ⠀⠀⠀⠀⠀⠀                                  ⠀⠉⠀⠀⠀�
 
 # For the prompt_symbol variable in the .zshrc file⠀⠀
 #prompt_halloween=🦈🧟💀
+sudo reboot
