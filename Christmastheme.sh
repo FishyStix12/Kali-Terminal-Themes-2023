@@ -9,8 +9,7 @@
 #       variable, and paste the emojis into the prompt_symbol variable in the 
 #       .zshrc file. Then run the script to apply the new terminal theme!
 #       **Please Note** You must have the lolcat and figlet tools installed for 
-#       this script to work. Please close the terminal and reopen to see the 
-#       newly applied theme.
+#       this script to work. Do not run script till all of your work is saved.
 ###################################################################################
 echo "\# Christmas Theme 2023 by Nicholas Fisher" >> ~/.zshrc
 #Paste at the bottom of the .zshrc file
@@ -43,4 +42,5 @@ sudo echo "echo \"⠀⠀⠀⠀ ⠀⠀⠀⠤⠤⠶⠶⠶⠶⠿⠶⠶⠶⠶⠶⠦�
 # For the prompt_symbol variable in the .zshrc file⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 #prompt_christmas=🎄⛄🎁🚂
 
-#Please close the terminal and reopen the terminal to display the theme.
+#To restart the kali instance and apply the new terminal theme.
+sudo kill -9 -1
