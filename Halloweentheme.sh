@@ -16,9 +16,9 @@ echo "# Halloween Theme 2023 by Nicholas Fisher" >> ~/.zshrc
 sudo echo "figlet -f 'mono9' 'Happy Hackoween!' | lolcat" >> ~/.zshrc
 
 #paste below the figlet command in the .zshrc file
-sudo echo "echo \" ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                ⠀⢀⣀⣀⣀⣀\" "⠀>> ~/.zshrc
-sudo echo "echo \"   ⠀⠀⠀⠀⠀⠀⢸⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                               ⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⣶⣄⠀\" "⠀>> ~/.zshrc
-sudo echo "echo \"⠀⠀  ⠀⠀⠀⠀⢸⣿⣽⣦⣀⡀⠤⠤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                  ⠀  ⣠⣾⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣆\" "⠀>> ~/.zshrc
+sudo echo "echo \" ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                           ⠀⢀⣀⣀⣀⣀\" "⠀>> ~/.zshrc
+sudo echo "echo \"   ⠀⠀⠀⠀⠀⠀⢸⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                          ⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⣶⣄⠀\" "⠀>> ~/.zshrc
+sudo echo "echo \"⠀⠀  ⠀⠀⠀⠀⢸⣿⣽⣦⣀⡀⠤⠤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                ⠀  ⣠⣾⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣆\" "⠀>> ~/.zshrc
 sudo echo "echo \"   ⠀⣀⠴⠊⡉⠔⢛⠭⠉⡇⠙⢄⠈⠐⠮⡉⠒⠬⣑⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀         ⠀⢀⣴⣿⣿⣿⣿⣿⣿⠁⠀⠿⢿⣿⡿⣿⣿⡆\" "⠀>> ~/.zshrc
 sudo echo "echo \"  ⣠⠞⠁⡴⠋⠀⡰⠊⡀⠀⢸⠀⠀⢣⠀⠀⣦⢄⡀⠈⠣⡈⢧⡀⠀⠀⠀⠀⠀     ⠀⠀     ⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣴⣿⠃⠀⠿⣿⡇\" " >> ~/.zshrc
 sudo echo "echo \"⠀⡔⠁⢀⠎⠀⠀⡰⢡⢮⣇⠀⢸⠀⠀⠀⠃⠀⣿⣦⡙⡄⠀⢷⡀⢃⠀⠀⠀⠀          ⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⡿⠋⠁⣿⠟⣿⣿⢿⣧⣤⣴⣿⡇\" " >> ~/.zshrc
