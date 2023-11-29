@@ -33,8 +33,9 @@ sudo echo "echo \" ⠀⠀                       ⠀  ⠀⠀⠀      ⠀⠀⠀⠀
 sudo echo "echo \"⠀⠀⠀⠀⠀⠀                                   ⠀⠉⠀⠀⠀⠀⠀⠀⠈\" " >> ~/.zshrc
 
 # For the prompt_symbol variable in the .zshrc file
-#the echo command saves the emojis as a comment on the .zshrc file for easy future usage of copy and paste.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+#the echo command saves the emojis as a comment on the .zshrc file for easy future usage of copy and paste.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 #prompt_halloween=🦈🧟💀
 echo "#prompt_halloween=🦈🧟💀" >> ~/.zshrc
+
 #To restart the kali instance and apply the new terminal theme. Please save all work before running the script.
 sudo kill -9 -1
