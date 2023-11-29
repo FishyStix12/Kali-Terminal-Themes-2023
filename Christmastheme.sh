@@ -11,7 +11,7 @@
 #       **Please Note** You must have the lolcat and figlet tools installed for 
 #       this script to work. Do not run script till all of your work is saved.
 ###################################################################################
-echo "\# Christmas Theme 2023 by Nicholas Fisher" >> ~/.zshrc
+echo "# Christmas Theme 2023 by Nicholas Fisher" >> ~/.zshrc
 #Paste at the bottom of the .zshrc file
 sudo echo "figlet -f  'mono9' 'Hacky Holidays!' | lolcat " >> ~/.zshrc
 
