@@ -11,6 +11,7 @@
 #       **Please Note** You must have the lolcat and figlet tools installed for 
 #       this script to work. 
 ###################################################################################
+echo "\# Christmas Theme 2023 by Nicholas Fisher" >> ~/.zshrc
 #Paste at the bottom of the .zshrc file
 sudo echo "figlet -f  'mono9' 'Hacky Holidays!' | lolcat " >> ~/.zshrc
 
@@ -41,4 +42,4 @@ sudo echo "echo \"⠀⠀⠀⠀ ⠀⠀⠀⠤⠤⠶⠶⠶⠶⠿⠶⠶⠶⠶⠶⠦�
 # For the prompt_symbol variable in the .zshrc file⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 #prompt_christmas=🎄⛄🎁🚂
 
-sudo reboot
+#sudo systemctl restart bash
