@@ -1,4 +1,4 @@
-#!/bin/bash
+8#!/bin/bash
 ###################################################################################
 #       Title: Halloween Theme
 #       Author: Nicholas Fisher
@@ -33,7 +33,7 @@ sudo echo "echo \" ⠀⠀                       ⠀  ⠀⠀⠀      ⠀⠀⠀⠀
 sudo echo "echo \"⠀⠀⠀⠀⠀⠀                                   ⠀⠉⠀⠀⠀⠀⠀⠀⠈\" " >> ~/.zshrc
 
 # For the prompt_symbol variable in the .zshrc file
-#the echo command saves the emojis as a comment on the .zshrc file for easy future usage of copy and paste.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+#the echo command saves the emojis as a comment on the .zshrc file for easy future usage of copy and paste.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 #prompt_halloween=🦈🧟💀
 echo "#prompt_halloween=🦈🧟💀" >> ~/.zshrc
 
