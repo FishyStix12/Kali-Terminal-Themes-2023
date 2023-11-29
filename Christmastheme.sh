@@ -9,7 +9,8 @@
 #       variable, and paste the emojis into the prompt_symbol variable in the 
 #       .zshrc file. Then run the script to apply the new terminal theme!
 #       **Please Note** You must have the lolcat and figlet tools installed for 
-#       this script to work. 
+#       this script to work. Please close the terminal and reopen to see the 
+#       newly applied theme.
 ###################################################################################
 echo "\# Christmas Theme 2023 by Nicholas Fisher" >> ~/.zshrc
 #Paste at the bottom of the .zshrc file
@@ -42,4 +43,4 @@ sudo echo "echo \"⠀⠀⠀⠀ ⠀⠀⠀⠤⠤⠶⠶⠶⠶⠿⠶⠶⠶⠶⠶⠦�
 # For the prompt_symbol variable in the .zshrc file⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 #prompt_christmas=🎄⛄🎁🚂
 
-#sudo systemctl restart bash
+#Please close the terminal and reopen the terminal to display the theme.
