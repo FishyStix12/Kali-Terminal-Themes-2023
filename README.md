@@ -6,7 +6,7 @@ For Both the Halloweentheme and Christmastheme scripts: <br />
 2. Ensure that you have installed the "**figlet**" and "**lolcat**" tools on your Kali instance.
 3. Ensure that you have **saved all your work before running these scripts!** <br />
 <br />
-The **change.term.theme.V1.2.sh** script is a script to help users make their own Kali Linux Themes on their System! <br />
+The change.term.theme.V1.2.sh script is a script to help users make their own Kali Linux Themes on their System! <br />
 <br />
 Thank you for using my scripts, and I hope you have Hacky Holidays!
 
