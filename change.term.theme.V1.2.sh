@@ -14,6 +14,9 @@
 #	in the .zshrc and bash.rc files and the user will need to input the
 #	emojis in the prompt_symbol=" variable in the .zshrc file.
 ################################################################################################
+#These lines install the tools needed to run the script properly
+sudo apt-get install figlet
+sudo apt-get install lolcat
 
 ## function to figure out if zshrc or bash is being used
 function is_Zshrc() {
