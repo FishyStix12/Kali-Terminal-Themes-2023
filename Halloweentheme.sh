@@ -13,24 +13,24 @@
 ###################################################################################
 echo "# Halloween Theme 2023 by Nicholas Fisher" >> ~/.zshrc
 #Adds title for terminal
-sudo echo "figlet -f 'mono9' 'Happy Hackoween!' | lolcat" >> ~/.zshrc
+sudo echo "figlet 'Happy Hackoween!' | lolcat" >> ~/.zshrc
 
 #paste the images to the .zshrc file.
-sudo echo "echo \" ⠀⠀⠀⠀⠀⠀⠀⢀⣾⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                           ⢀⣀⣀⣀⣀ | lolcat \" "⠀>> ~/.zshrc
-sudo echo "echo \"   ⠀⠀⠀⠀⠀⢸⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                          ⣀⣴⣾⣿⣿⣿⣿⣿⣿⣶⣄⠀| lolcat \" "⠀>> ~/.zshrc
-sudo echo "echo \"⠀⠀  ⠀⠀⠀⠀⢸⣿⣽⣦⣀⡀⠤⠤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                 ⠀⣠⣾⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣆ | lolcat \" "⠀>> ~/.zshrc
-sudo echo "echo \"   ⠀⣀⠴⠊⡉⠔⢛⠭⠉⡇⠙⢄⠈⠐⠮⡉⠒⠬⣑⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀         ⠀⢀⣴⣿⣿⣿⣿⣿⣿⠁⠀⠿⢿⣿⡿⣿⣿⡆ | lolcat \" "⠀>> ~/.zshrc
-sudo echo "echo \"  ⣠⠞⠁⡴⠋⠀⡰⠊⡀⠀⢸⠀⠀⢣⠀⠀⣦⢄⡀⠈⠣⡈⢧⡀⠀⠀⠀⠀⠀     ⠀⠀     ⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣴⣿⠃⠀⠿⣿⡇ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \"⠀⡔⠁⢀⠎⠀⠀⡰⢡⢮⣇⠀⢸⠀⠀⠀⠃⠀⣿⣦⡙⡄⠀⢷⡀⢃⠀⠀⠀⠀          ⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⡿⠋⠁⣿⠟⣿⣿⢿⣧⣤⣴⣿⡇ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \"⠸⠁⠀⡞⠀⠀⢀⣇⡇⣾⣿⣆⠀⠀⠀⠀⡸⠘⠛⠛⠛⡉ ⠀⠀⡇⢸⠀⠀         ⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠘⠁⢸⠟⢻⣿⡿ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \"⡆⠀⢸⠀⠀⠀⢸⠉⠉⠉⠉⠁⠀⠀⢻⣿⢹⠀⠀⠀⠀⣠  ⠀⠀⠁⢸        ⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣴⣇⢀⣤⠀⠀⠀⠀⠘⣿⠃ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \"⡇⠀⢸⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⡀⠀⠫⢾⠀⢀⣤⢞⠋⠀  ⢠⠃⠸⠀        ⠀⠀⢈⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣴⣿⢀⣴⣾⠇ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \"⢡⠀⠈⠀⠀⠀⠈⢳⡦⣄⣀⣤⣀⣧⣶⣤⣾⣿⣿⣣ ⢫⠀⠀⡏⢠⠆        ⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \" ⠈⢧⡀⠑⡀⠀⠀⠘⠝⠾⠿⣿⣿⡿⠿⡿⠛⠏⠉⠀⡜⢠⠞⣠⠏        ⠉⠉⠉⠉⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃ | lolcat \" "⠀>> ~/.zshrc
-sudo echo "echo \"⠀ ⠀⠳⣄⠈⢤⠀⠀⠈⢢⡀⠈⠋⡇⠀⠀⠸⠀⠀⡔⡠⣋⡴⠋           ⣠⣾⣿⣿⣿⣿⡿⠟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁ | lolcat \" "⠀⠀>> ~/.zshrc
-sudo echo "echo \"⠀⠀ ⠀⠈⠙⠲⠯⠶⢤⣀⣑⣦⣀⡇⠤⠴⠥⠴⠚⠈⠉⠁⠀⠀        ⠀⣴⡾⠿⠿⠿⠛⠋⠉⠀⢸⣿⣿⣿⣿⠿⠋⢸⣿⡿⠋ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \" ⠀⠀                       ⠀  ⠀⠀⠀      ⠀⠀⠀⠀⢠⣿⡿⠟⠋⠁⠀⠀⡿⠋ | lolcat \" " >> ~/.zshrc
-sudo echo "echo \"⠀⠀⠀⠀⠀⠀                                   ⠀⠉⠀⠀⠀⠀⠀⠀⠈ | lolcat \" " >> ~/.zshrc
+sudo echo "echo \" ⠀⠀⠀⠀⠀⠀⠀⢀⣾⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                           ⢀⣀⣀⣀⣀ \"| lolcat  "⠀>> ~/.zshrc
+sudo echo "echo \"   ⠀⠀⠀⠀⠀⢸⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                          ⣀⣴⣾⣿⣿⣿⣿⣿⣿⣶⣄⠀\"| lolcat  "⠀>> ~/.zshrc
+sudo echo "echo \"⠀⠀  ⠀⠀⠀⠀⢸⣿⣽⣦⣀⡀⠤⠤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                 ⠀⣠⣾⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣆ \"| lolcat  "⠀>> ~/.zshrc
+sudo echo "echo \"   ⠀⣀⠴⠊⡉⠔⢛⠭⠉⡇⠙⢄⠈⠐⠮⡉⠒⠬⣑⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀         ⠀⢀⣴⣿⣿⣿⣿⣿⣿⠁⠀⠿⢿⣿⡿⣿⣿⡆ \"| lolcat  "⠀>> ~/.zshrc
+sudo echo "echo \"  ⣠⠞⠁⡴⠋⠀⡰⠊⡀⠀⢸⠀⠀⢣⠀⠀⣦⢄⡀⠈⠣⡈⢧⡀⠀⠀⠀⠀⠀     ⠀⠀     ⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣴⣿⠃⠀⠿⣿⡇ \"| lolcat  " >> ~/.zshrc
+sudo echo "echo \"⠀⡔⠁⢀⠎⠀⠀⡰⢡⢮⣇⠀⢸⠀⠀⠀⠃⠀⣿⣦⡙⡄⠀⢷⡀⢃⠀⠀⠀⠀          ⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⡿⠋⠁⣿⠟⣿⣿⢿⣧⣤⣴⣿⡇ \"| lolcat  " >> ~/.zshrc
+sudo echo "echo \"⠸⠁⠀⡞⠀⠀⢀⣇⡇⣾⣿⣆⠀⠀⠀⠀⡸⠘⠛⠛⠛⡉ ⠀⠀⡇⢸⠀⠀         ⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠘⠁⢸⠟⢻⣿⡿ \"| lolcat  " >> ~/.zshrc
+sudo echo "echo \"⡆⠀⢸⠀⠀⠀⢸⠉⠉⠉⠉⠁⠀⠀⢻⣿⢹⠀⠀⠀⠀⣠  ⠀⠀⠁⢸        ⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣴⣇⢀⣤⠀⠀⠀⠀⠘⣿⠃ \"| lolcat  " >> ~/.zshrc
+sudo echo "echo \"⡇⠀⢸⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⡀⠀⠫⢾⠀⢀⣤⢞⠋⠀  ⢠⠃⠸⠀        ⠀⠀⢈⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣴⣿⢀⣴⣾⠇ \"| lolcat  " >> ~/.zshrc
+sudo echo "echo \"⢡⠀⠈⠀⠀⠀⠈⢳⡦⣄⣀⣤⣀⣧⣶⣤⣾⣿⣿⣣ ⢫⠀⠀⡏⢠⠆        ⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏ \"| lolcat  " >> ~/.zshrc
+sudo echo "echo \" ⠈⢧⡀⠑⡀⠀⠀⠘⠝⠾⠿⣿⣿⡿⠿⡿⠛⠏⠉⠀⡜⢠⠞⣠⠏        ⠉⠉⠉⠉⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃ \"| lolcat  "⠀>> ~/.zshrc
+sudo echo "echo \"⠀ ⠀⠳⣄⠈⢤⠀⠀⠈⢢⡀⠈⠋⡇⠀⠀⠸⠀⠀⡔⡠⣋⡴⠋           ⣠⣾⣿⣿⣿⣿⡿⠟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁ \"| lolcat  "⠀⠀>> ~/.zshrc
+sudo echo "echo \"⠀⠀ ⠀⠈⠙⠲⠯⠶⢤⣀⣑⣦⣀⡇⠤⠴⠥⠴⠚⠈⠉⠁⠀⠀        ⠀⣴⡾⠿⠿⠿⠛⠋⠉⠀⢸⣿⣿⣿⣿⠿⠋⢸⣿⡿⠋ \"| lolcat " >> ~/.zshrc
+sudo echo "echo \" ⠀⠀                       ⠀  ⠀⠀⠀      ⠀⠀⠀⠀⢠⣿⡿⠟⠋⠁⠀⠀⡿⠋ \"| lolcat " >> ~/.zshrc
+sudo echo "echo \"⠀⠀⠀⠀⠀⠀                                   ⠀⠉⠀⠀⠀⠀⠀⠀⠈ \"| lolcat " >> ~/.zshrc
 
 # For the prompt_symbol variable in the .zshrc file
 #the echo command saves the emojis as a comment on the .zshrc file for easy future usage of copy and paste.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
