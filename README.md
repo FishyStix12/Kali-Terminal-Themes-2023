@@ -3,9 +3,9 @@
 This repository was made to brighten up a kali terminal programmer's day! Welcome to Kali Linux Terminal Themes for 2023-2024. In order for these themes to work <br />
 For Both the Halloweentheme and Christmastheme scripts: <br />
 1. Copy the prompt_christmas and prompt_halloween emojis in the prompt and paste them into the "**prompt_symbol**" variable within the "**.zshrc**" file in Kali Linux.
-2. Ensure that you have installed the "**figlet**" and "**lolcat**" tools on your Kali instance. To install this tools copy and paste the lines below:
-   sudo apt-get install figlet -y
-   sudo apt-get install lolcat -y
+2. Ensure that you have installed the "**figlet**" and "**lolcat**" tools on your Kali instance. To install this tools copy and paste the lines below: <br />
+   sudo apt-get install figlet -y <br />
+   sudo apt-get install lolcat -y <br />
 3. Ensure that you have **saved all your work before running these scripts!** <br />
 <br />
 The change.term.theme.V1.2.sh script is a script to help users make their own Kali Linux Themes on their System! <br />
